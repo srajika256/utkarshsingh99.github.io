@@ -18,7 +18,7 @@ Now I have to carry out the query of displaying what all clubs has the candidate
 
 Before all of that, only a simple task remains and that is to make all the new routes private by adding middleware.
 
-Oh, ofcourse, I also have to make a login page. Got to have some way to delete the tokens too!
+Oh, ofcourse, I also have to make a logout page. Got to have some way to delete the tokens too!
 
 Okay, something terrible is happening. Can't really call it confusing because even I don't have any idea what the problem is. I am running the server, running the site on my PC, everything works fine. The second I try to run the localhost site on my phone, it doesn't login!
 
