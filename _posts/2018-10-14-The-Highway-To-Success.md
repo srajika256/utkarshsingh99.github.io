@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Highway To Success"
-date:   2018-14-10 23:30:00 -0600
+date:   2018-10-14 23:30:00 -0600
 categories: none
 ---
 
@@ -25,5 +25,3 @@ Okay, something terrible is happening. Can't really call it confusing because ev
 To add to that, some weird thing has happened to the candidateProfile page too. Can't access that after adding the middleware.
 
 Will definitely have to see what's the problem tomorrow. What a disappointing end to a brilliant day.
-
- 
